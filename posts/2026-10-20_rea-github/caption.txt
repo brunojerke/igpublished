@@ -1,0 +1,7 @@
+REA es el repo de GitHub que todos dicen que "copia cualquier app".
+La verdad: le da a la IA herramientas para entender un programa por dentro, pero no clona nada de un botón.
+Y ojo con las copias truchas: el oficial es github.com/morluto/rea
+
+Comentá REA y te paso el link oficial.
+
+#inteligenciaartificial #github #claudecode #ia #automatizacion
